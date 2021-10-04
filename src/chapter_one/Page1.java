@@ -5,5 +5,11 @@ public class Page1 {
 
         System.out.println("self practice");
 
+        for (int i = 0; i < 5; i++) {
+
+            System.out.println("second print");
+            
+        }
+
     }
 }
