@@ -12,6 +12,9 @@ public class Page1 {
         }
 
         // added text
+        
+        
+        // we added this line for practicing fetching
 
     }
 }
